@@ -4,7 +4,10 @@ var nome = "Vanessa Araujo";
 console.log(nome);
 
 nome = "Elisama"
-console.log(nome)
+console.log(nome);
+
+let number = '12'
+console.log(parseInt(number));
 
 // tipo let
 let nomeDaPessoa = "Elisama"
