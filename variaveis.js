@@ -43,9 +43,9 @@ const newArr = [1, 'nome', true, 2.2];
 console.log(newArr[1]);
 
 // validações
-let estaVeirificado = 'Nome'
-console.log(!!estaVeirificado);
-console.log('concatenando', estaVeirificado + ' ' + estaVeirificado);
+let estaVerificado = 'Nome'
+console.log(!!estaVerificado);
+console.log('concatenando', estaVerificado + ' ' + estaVerificado);
 
 let sim = true;
 let nao = false;

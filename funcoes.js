@@ -3,10 +3,10 @@ function calculoIMC(altura, peso){
 }
 calculoIMC(1.93, 92);
 
-let funcaoAnomima = function(altura, peso){
+let funcaoAnonima = function(altura, peso){
   console.log((peso / (altura * altura)).toFixed(2))
 }
-funcaoAnomima(1.70, 75)
+funcaoAnonima(1.70, 75)
 
 let funcaoArrow = (altura, peso) => {
   console.log((peso / (altura * altura)).toFixed(2))
